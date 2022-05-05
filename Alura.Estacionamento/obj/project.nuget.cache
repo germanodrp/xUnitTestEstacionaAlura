@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6zgvXobWy+hs2pEmgd4bj6H0Wj4gnP50I3FbmbjCeM1kmEazc33IwWn1tNaVeWgDWtlojwNQuJJ+12ClBuqAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\germano.pereira\\Downloads\\alura.estacionamento-aula02\\alura.estacionamento-aula02\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\germano.pereira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56f7d5c8-c718-4a8c-bd41-4da7123cef38": {
+      "ProjectGuid": "56f7d5c8-c718-4a8c-bd41-4da7123cef38",
+      "DisplayName": "Alura.Estacionamento.Tests",
+      "ColorIndex": 0
+    },
+    "39515548-848c-4b37-93a8-8f64568153d9": {
+      "ProjectGuid": "39515548-848c-4b37-93a8-8f64568153d9",
+      "DisplayName": "Alura.Estacionamento",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
